@@ -1,4 +1,4 @@
-<h2>Hi, My name is Saarthak Prakash 👋</h2>
+<h2>Hi, My name is Saarthak Prakash 😄</h2>
 <p><em>Currently working as Software Developer at Morgan Stanley</em></p>
 
 <p align="left">
