@@ -11,7 +11,7 @@
   
 </p>
 
-<h3 align="center">Languages and Frameworks I've worked with</h3>
+<h3 align="center">Languages, Frameworks and Tools I've worked with</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/git-f63d11.svg?style=for-the-badge&logo=GIT&logoColor=white" alt="GIT">
   <img src="https://img.shields.io/badge/IntelliJ-7a54a4.svg?style=for-the-badge&logo=intellij idea&logoColor=white" alt="IntelliJ">
   <img src="https://img.shields.io/badge/VS Code-107ec9.svg?style=for-the-badge&logo=visual studio code&logoColor=white" alt="VS Code">
-  
   <img src="https://img.shields.io/badge/mongodb-023430.svg?style=for-the-badge&logo=mongodb&logoColor=00ed64" alt="MongoDB">
   <img src="https://img.shields.io/badge/mysql-4040FF.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
