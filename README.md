@@ -14,9 +14,12 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src ="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src ="https://img.shields.io/badge/spring boot-008037.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot">
   
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/mongodb-023430.svg?style=for-the-badge&logo=mongodb&logoColor=00ed64" alt="MongoDB">
+  <img src="https://img.shields.io/badge/mysql-4040FF.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
+  <img src="https://img.shields.io/badge/git-f63d11.svg?style=for-the-badge&logo=GIT&logoColor=white" alt="GIT">
 </p>
 
 <!--
