@@ -9,6 +9,10 @@
   <a href="https://www.linkedin.com/in/saarthak-prakash-5a72b8169/" target="_blank" rel="noopener noreferrer">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/>
   </a>
+  
+  <a href="https://leetcode.com/sams49/" target="_blank" rel="noopener noreferrer">
+    <img src=https://img.shields.io/badge/leetcode-ffa116.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=Leetcode/>
+  </a>
 </p>
 
 
