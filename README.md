@@ -11,7 +11,7 @@
   </a>
   
   <a href="https://leetcode.com/sams49/" target="_blank" rel="noopener noreferrer">
-    <img src=https://img.shields.io/badge/leetcode-ffa116.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=Leetcode/>
+    <img src=https://img.shields.io/badge/leetcode-ffa116.svg?&style=for-the-badge&logo=leetcode&logoColor=black alt=Leetcode/>
   </a>
 </p>
 
