@@ -1,4 +1,4 @@
-<h2>Hi, My name is Saarthak Prakash 😄</h2>
+<h2>Hi, my name is Saarthak Prakash <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"></h2>
 <p><em>Currently working as Software Developer at Morgan Stanley</em></p>
 
 <p align="left">
