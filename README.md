@@ -1,11 +1,19 @@
 <h2>Hi, my name is Saarthak Prakash <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"></h2>
 <p><em>Currently working as Software Developer at Morgan Stanley</em></p>
 
+
 <p align="left">
   <img src = "https://img.shields.io/github/followers/saarthak49?logo=GitHub&style=for-the-badge">
   <img src = "https://img.shields.io/github/stars/saarthak49?logo=github&style=for-the-badge">
   <img src = "https://komarev.com/ghpvc/?username=saarthak49&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="saarthak49" />
+  <a href="https://www.linkedin.com/in/saarthak-prakash-5a72b8169/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/>
+  </a>
 </p>
+
+
+
+
 
 <!-- <p align="right"> -->
   
@@ -37,6 +45,11 @@
 </p>
 <p align = "center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saarthak49&theme=dark&locale=en&layout=compact">
+</p>
+
+###  Connect with me!
+<p align="left">
+  
 </p>
 
 
