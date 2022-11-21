@@ -6,7 +6,7 @@
   <img src = "https://img.shields.io/github/followers/saarthak49?logo=GitHub&style=for-the-badge">
   <img src = "https://img.shields.io/github/stars/saarthak49?logo=github&style=for-the-badge">
   <img src = "https://komarev.com/ghpvc/?username=saarthak49&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="saarthak49" />
-  <a href="https://www.linkedin.com/in/saarthak-prakash-5a72b8169/" target="_blank">
+  <a href="https://www.linkedin.com/in/saarthak-prakash-5a72b8169/" target="_blank" rel="noopener noreferrer">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/>
   </a>
 </p>
