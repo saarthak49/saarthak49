@@ -47,11 +47,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saarthak49&theme=dark&locale=en&layout=compact">
 </p>
 
-###  Connect with me!
-<p align="left">
-  
-</p>
-
 
 
 <!--
