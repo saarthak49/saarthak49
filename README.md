@@ -3,7 +3,12 @@
 
 <p align="left">
   <img src = "https://img.shields.io/github/followers/saarthak49?logo=GitHub&style=for-the-badge">
-  <img src = "https://img.shields.io/github/stars/saarthak49?logo=GitHub&style=for-the-badge">
+  <img src = "https://img.shields.io/github/stars/saarthak49?logo=github&style=for-the-badge">
+  <img src = "https://komarev.com/ghpvc/?username=saarthak49&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="saarthak49" />
+</p>
+
+<!-- <p align="right"> -->
+  
 </p>
 
 <h3 align="center">Languages and Frameworks I've worked with</h3>
@@ -22,9 +27,11 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
   <img src="https://img.shields.io/badge/AWS-ff9a00?style=for-the-badge&logo=amazon aws&logoColor=white" alt="AWS">
   
-  <img src="https://profile-counter.glitch.me/saarthak49/count.svg" />
+  
   
 </p>
+
+
 
 <!--
 **saarthak49/saarthak49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
