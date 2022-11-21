@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
   <img src="https://img.shields.io/badge/AWS-ff9a00?style=for-the-badge&logo=amazon aws&logoColor=white" alt="AWS">
   
+  <img src="https://profile-counter.glitch.me/saarthak49/count.svg" />
+  
 </p>
 
 <!--
